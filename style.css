@@ -1,0 +1,52 @@
+* {
+    box-sizing: border-box;
+}
+
+body{display: flex;
+
+    padding: 60px 0px 544px 0px;
+    justify-content: center;
+    align-items: center;
+
+    }
+    .img1{width: 50px;
+        height: 41px;
+        flex-shrink: 0;}
+       .main{ background-color:#fff;
+        width: 450px;
+        height: 435px;}
+    .div3{color: #000;
+        font-size: 42px;
+        font-style: normal;
+        font-weight: 900;
+        line-height: normal;
+font-family: 'Roboto', sans-serif;}
+.input-1, .input-2{width: 450px;
+    height: 70px;
+    flex-shrink: 0;
+    border-radius: 6px;
+    border: 1px solid rgba(0, 0, 0, 0.20);
+    background: #FFF;
+    color: rgba(0, 0, 0, 0.60);
+    font-family: Segoe UI;
+    font-size: 18px;
+    font-style: normal;
+    margin-right: 11px;
+    font-weight: 400;
+    line-height: normal;}
+    .input-2{ margin-top: 15px;
+    margin-right: 11px;}
+
+    .btn1{ width: 450px;
+        height: 60px;
+        flex-shrink: 0;
+        margin-top: 15px;
+        border-radius: 76px;
+        background: #1DA1F2;}
+        .div4{ color: #1DA1F2;
+            font-family: Segoe UI;
+            font-size: 18px;
+            font-style: normal;
+            margin-top: 19px;
+            font-weight: 400;
+            line-height: normal;}
